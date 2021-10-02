@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinothsubbiah
+- 👋 Hi, I’m Vinoth Subbiah
 - 👀 I’m interested in web-designing & problem solving
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on web development projects
