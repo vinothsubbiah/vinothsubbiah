@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-designing & problem solving
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 reach me at plvinoth21@gmail.com
+- 📫 To reach me plvinoth21@gmail.com
 
 <!---
 vinothsubbiah/vinothsubbiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
